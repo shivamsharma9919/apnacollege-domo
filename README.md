@@ -1,4 +1,4 @@
 # apnacollege-domo
 this is my first Git Repository
 <br>
-author -shivam sharma
+author -shivam (apna college)
